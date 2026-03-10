@@ -1,0 +1,5 @@
+[
+  "tests/test_py_lorem_gen.py::TestGen::test_basic",
+  "tests/test_py_lorem_gen.py::TestGen::test_empty",
+  "tests/test_py_lorem_gen.py::TestGen::test_type_error"
+]
